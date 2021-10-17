@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "Buddenborg SK, Tracey A, Berger DJ, Lu Z, DOYLE SR, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M"
-image: /assets/images/papers/2021-10-12-cjohnstoni_genome_pic.png
+image: 
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/2021.08.13.456314v1 
 pdflink: 
@@ -35,9 +35,9 @@ tags: [smansoni, genome, assembly, annotation]
 
 # Abstract 
 
-**Background** Schistosoma mansoni is a flatworm that causes a neglected tropical disease affecting millions worldwide. Most flatworms are hermaphrodites but schistosomes have genotypically determined male (ZZ) and female (ZW) sexes. Sex is essential for pathology and transmission, however, the molecular determinants of sex remain unknown and is limited by poorly resolved sex chromosomes in previous genome assemblies.
+**Background** *Schistosoma mansoni* is a flatworm that causes a neglected tropical disease affecting millions worldwide. Most flatworms are hermaphrodites but schistosomes have genotypically determined male (ZZ) and female (ZW) sexes. Sex is essential for pathology and transmission, however, the molecular determinants of sex remain unknown and is limited by poorly resolved sex chromosomes in previous genome assemblies.
 
-**Results** We assembled the 391.4 Mb S. mansoni genome into individual, single-scaffold chromosomes, including Z and W. Manual curation resulted in a vastly improved gene annotation, resolved gene and repeat arrays, trans-splicing, and almost all UTRs. The sex chromosomes each comprise pseudoautosomal regions and single sex-specific regions. The Z-specific region contains 932 genes, but on W all but 29 of these genes have been lost and the presence of five pseudogenes indicates that degeneration of W is ongoing. Synteny analysis reveals an ancient chromosomal fusion corresponding to the oldest part of Z, where only a single gene—encoding the large subunit of pre-mRNA splicing factor U2AF—has retained an intact copy on W. The sex-specific copies of U2AF have divergent N-termini and show sex-biased gene expression.
+**Results** We assembled the 391.4 Mb *S. mansoni* genome into individual, single-scaffold chromosomes, including Z and W. Manual curation resulted in a vastly improved gene annotation, resolved gene and repeat arrays, trans-splicing, and almost all UTRs. The sex chromosomes each comprise pseudoautosomal regions and single sex-specific regions. The Z-specific region contains 932 genes, but on W all but 29 of these genes have been lost and the presence of five pseudogenes indicates that degeneration of W is ongoing. Synteny analysis reveals an ancient chromosomal fusion corresponding to the oldest part of Z, where only a single gene—encoding the large subunit of pre-mRNA splicing factor U2AF—has retained an intact copy on W. The sex-specific copies of U2AF have divergent N-termini and show sex-biased gene expression.
 
 **Conclusion** Our assembly with fully resolved chromosomes provides evidence of an evolutionary path taken to create the Z and W sex chromosomes of schistosomes. Sex-linked divergence of the single U2AF gene, which has been present in the sex-specific regions longer than any other extant gene with distinct male and female specific copies and expression, may have been a pivotal step in the evolution of gonorchorism and genotypic sex determination of schistosomes.
 
