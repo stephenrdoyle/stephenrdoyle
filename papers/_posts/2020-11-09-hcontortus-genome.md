@@ -8,7 +8,7 @@ journal: "Communications Biology"
 volume: 
 issue:
 pages: 
-authors: "5.	DOYLE SR, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA"
+authors: "DOYLE SR, Tracey A, Laing R, Holroyd N, Bartley D, Bazant W, Beasley H, Beech R, Britton C, Brooks K, Chaudhry U, Maitland K, Martinelli A, Noonan JD, Paulini M, Quail MA, Redman E, Rodgers FH, Sallé G, Shabbir MZ, Sankaranarayanan G, Wit J, Howe KL, Sargison N, Devaney E, Berriman M, Gilleard JS, Cotton JA"
 image:
 redirect_from: 
 fulltext: https://www.nature.com/articles/s42003-020-01377-3 
@@ -35,7 +35,7 @@ tags: [hcontortus, genome, assembly, annotation]
 
 # Abstract 
 
-*Haemonchus contortus* is a globally distributed and economically important gastrointestinal pathogen of small ruminants and has become a key nematode model for studying anthelmintic resistance and other parasite-specific traits among a wider group of parasites including major human pathogens. Here, we report using PacBio long-read and OpGen and 10X Genomics long-molecule methods to generate a highly contiguous 283.4 Mbp chromosome-scale genome assembly including a resolved sex chromosome for the MHco3(ISE).N1 isolate. We show a remarkable pattern of conservation of chromosome content with Caenorhabditis elegans, but almost no conservation of gene order. Short and long-read transcriptome sequencing allowed us to define coordinated transcriptional regulation throughout the parasite’s life cycle and refine our understanding of cis- and trans-splicing. Finally, we provide a comprehensive picture of chromosome-wide genetic diversity both within a single isolate and globally. These data provide a high-quality comparison for understanding the evolution and genomics of Caenorhabditis and other nematodes and extend the experimental tractability of this model parasitic nematode in understanding helminth biology, drug discovery and vaccine development, as well as important adaptive traits such as drug resistance.
+*Haemonchus contortus* is a globally distributed and economically important gastrointestinal pathogen of small ruminants and has become a key nematode model for studying anthelmintic resistance and other parasite-specific traits among a wider group of parasites including major human pathogens. Here, we report using PacBio long-read and OpGen and 10X Genomics long-molecule methods to generate a highly contiguous 283.4 Mbp chromosome-scale genome assembly including a resolved sex chromosome for the MHco3(ISE).N1 isolate. We show a remarkable pattern of conservation of chromosome content with *Caenorhabditis elegans*, but almost no conservation of gene order. Short and long-read transcriptome sequencing allowed us to define coordinated transcriptional regulation throughout the parasite’s life cycle and refine our understanding of cis- and trans-splicing. Finally, we provide a comprehensive picture of chromosome-wide genetic diversity both within a single isolate and globally. These data provide a high-quality comparison for understanding the evolution and genomics of *Caenorhabditis* and other nematodes and extend the experimental tractability of this model parasitic nematode in understanding helminth biology, drug discovery and vaccine development, as well as important adaptive traits such as drug resistance.
 
 ## Data availability
 
