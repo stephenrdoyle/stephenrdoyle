@@ -8,7 +8,7 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: stepehnrdoyle/stephenrdoyle-lab.github.io
+repository: stephenrdoyle/stephenrdoyle-lab.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
