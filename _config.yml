@@ -8,24 +8,24 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: ewallace/wallacelabrna.github.io
+repository: stepehnrdoyle/stephenrdoyle-lab.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Wallace Lab
-tagline: Dynamic mRNA processing in adapting fungi
+title : Doyle Lab
+tagline: Helminth Genomics
 institution:
-  url: http://www.ed.ac.uk
-  name: The University of Edinburgh
+  url: http://www.sanger.ac.uk
+  name: Wellcome Sanger Institute
 department:
-  url: https://www.ed.ac.uk/biology/cell-biology
-  name: Institute for Cell Biology, School of Biological Sciences
+  url: https://www.sanger.ac.uk/programme/parasites-and-microbes/
+  name: Parasites and Microbes Programme
 author :
-  name : Edward Wallace
-  email : edward.wallace@ed.ac.uk
-  github : ewallace
-  twitter : ewjwallace
+  name : Stephen Doyle
+  email : stephen.doyle@sanger.ac.uk
+  github : stephenrdoyle
+  twitter : stephenrdoyle
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://ewallace.github.io
+production_url : https://stephenrdoyle-lab.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
