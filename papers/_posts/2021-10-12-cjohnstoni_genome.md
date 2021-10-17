@@ -29,7 +29,7 @@ preprint: true
 embargo: false	
 peerreview: false
 review: false
-tags: [evolution, ssd1, rna-binding protein, pseudoenzyme]
+tags: [cjohnstoni, genome, assembly, annotation]
 ---
 {% include JB/setup %}
 
