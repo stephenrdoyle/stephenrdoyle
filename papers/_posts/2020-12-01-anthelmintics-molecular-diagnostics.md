@@ -2,7 +2,7 @@
 layout: paper
 title: "Challenges and opportunities for the adoption of molecular diagnostics for anthelmintic resistance"
 year: "2020"
-shortref: "Kotze <i>et al.</i> <i>IJP-DDR</i> 202-"
+shortref: "Kotze <i>et al.</i> <i>IJP-DDR</i> 2020"
 nickname: anthelmintics_mol-diagnostics
 journal: "International Journal for Parasitology: Drugs and Drug Resistance"
 volume: 14
