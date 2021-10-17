@@ -17,13 +17,14 @@ Stephen is a UKRI Future Leaders Fellow (Group Leader) in the Parasites and Micr
 
 Prior to this, Stephen was a Senior Postdoctoral Fellow from 2015-2020 in the Parasite Genomics group led by Matt Berriman at the Sanger Institute. 
 
-Stephen's first postdoctoral postion was in the Nematode Functional Genomics group led by Warwick Grant at La Trobe University in Melbourne, Australia. 
+Stephen's first postdoctoral postion was in the Nematode Functional Genomics group led by [Warwick Grant] at [La Trobe University] in Melbourne, Australia. 
 
 Stephen received his PhD in Genetics at La Trobe University in 2011.
 
 [Wellcome Sanger Institute]: www.sanger.ac.uk
 [UKRI]: https://www.ukri.org/
 [The Wellcome Trust]: https://wellcome.org/
- 
-
+[Matt Berriman]: https://www.sanger.ac.uk/person/berriman-matt/
+[Warwick Grant]: https://www.latrobe.edu.au/animal-plant-and-soil-sciences/research/nematode-genetics 
+[La Trobe Univeristy]: https://www.latrobe.edu.au/]
 
