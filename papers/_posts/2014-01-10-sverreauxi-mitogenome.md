@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*"
+title: Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, *Sagmariasus verreauxi*
 year: "2021"
 shortref: "Doyle <i>et al.</i> <i>Mitochondrial DNA</i> 2014"
 nickname: sverreauxi-mitogenome
@@ -8,7 +8,7 @@ journal: "Mitochondrial DNA"
 volume: 
 issue:
 pages: 
-authors: "**DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM"
+authors: **DOYLE SR**, Griffiths IS, Murphy NP, Strugnell JM
 image:
 redirect_from: 
 fulltext: https://www.tandfonline.com/doi/full/10.3109/19401736.2013.855921
