@@ -9,7 +9,7 @@ volume:
 issue: 20
 pages: 218
 authors: "DOYLE SR, Illingworth CJR, Laing R, Bartley DJ, Redman E, Martinelli A, Holroyd N, Morrison AA, Rezansoff A, Tracey A, Devaney E, Berriman M, Sargison N, Cotton JA, Gilleard JS"
-image: 
+image: /assets/images/papers/2019-03-15-hcontortus-ivm-backcross.png
 redirect_from: 
 fulltext: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5592-6
 pdflink: 

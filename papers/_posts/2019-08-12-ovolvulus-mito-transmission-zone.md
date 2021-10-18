@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Crawford KE, Hedtke SM, DOYLE SR, Kuesel AC, Armoo S, Osei-Atweneboana MY, Grant WN"
-image: 
+image: /assets/images/papers/2019-08-12-ovolvulus-mito-transmission-zone.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/732446v1
 pdflink: 

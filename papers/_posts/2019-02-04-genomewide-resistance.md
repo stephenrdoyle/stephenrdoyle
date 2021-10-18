@@ -9,7 +9,7 @@ volume: 35
 issue: 4
 pages: 289-301
 authors: "DOYLE SR, Cotton JA"
-image: 
+image: /assets/images/papers/2019-02-04-genomewide-resistance.png
 redirect_from: 
 fulltext: https://www.cell.com/trends/parasitology/fulltext/S1471-4922(19)30016-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1471492219300169%3Fshowall%3Dtrue
 pdflink: 
