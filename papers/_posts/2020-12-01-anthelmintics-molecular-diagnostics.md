@@ -9,7 +9,7 @@ volume: 14
 issue:
 pages: 264-273
 authors: "Kotze AC, Gilleard JS, DOYLE SR, Prichard RK"
-image: 
+image: /assets/images/papers/2020-12-01-anthelmintics-molecular-diagnostics.jpg
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/S2211320720300476?via%3Dihub 
 pdflink: https://reader.elsevier.com/reader/sd/pii/S2211320720300476?token=8A2E86DB685CE8C86B8987F7ECBF8A69D9AE3ACDD1C26D0B7CAE06140AEF29951B2E05E2D31CE7DB3F6652206BE6CE55&originRegion=eu-west-1&originCreation=20211017154925
