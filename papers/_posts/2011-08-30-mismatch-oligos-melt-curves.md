@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "DOYLE SR, Chan CK, and Grant WN"
-image: 
+image: /assets/images/papers/2011-08-30-mismatch-oligos-melt-curves.png
 redirect_from: 
 fulltext: https://bmcbiotechnol.biomedcentral.com/articles/10.1186/1472-6750-11-83
 pdflink: 

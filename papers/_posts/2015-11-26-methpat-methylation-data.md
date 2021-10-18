@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, **DOYLE SR**, Dobrovic A"
-image: 
+image: /assets/images/papers/2015-11-26-methpat-methylation-data.png
 redirect_from: 
 fulltext: https://academic.oup.com/gigascience/article/4/1/s13742-015-0098-x/2707787
 pdflink: 

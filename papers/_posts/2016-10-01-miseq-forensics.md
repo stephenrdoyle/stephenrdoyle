@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "Mehta B, Daniel R, Phillips C, DOYLE SR, Elvidge G, Mcnevin D"
-image: 
+image: /assets/images/papers/2016-10-01-miseq-forensics.png
 redirect_from: 
 fulltext: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/elps.201600190
 pdflink: 
