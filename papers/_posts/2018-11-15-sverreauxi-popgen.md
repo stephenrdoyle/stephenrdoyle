@@ -9,7 +9,7 @@ volume:
 issue: 165
 pages: 185
 authors: "Woodings LN, Murphy NP, DOYLE SR, Hall N, Robinson A, Liggins, G, Green BS, Strugnell JM"
-image: 
+image: /assets/images/papers/2018-11-15-sverreauxi-popgen.png
 redirect_from: 
 fulltext: https://link.springer.com/article/10.1007%2Fs00227-018-3443-7
 pdflink: 
