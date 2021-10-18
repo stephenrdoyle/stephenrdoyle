@@ -9,7 +9,7 @@ volume: 10
 issue:
 pages: 4811
 authors: "Sallé G, DOYLE SR, Cortet J, Cabaret J, Berriman M, Holroyd N, Cotton "
-image: 
+image: /assets/images/papers/2019-10-22-hcontortus-global-diversity.png
 redirect_from: 
 fulltext: https://www.nature.com/articles/s41467-019-12695-4#citeas
 pdflink: 

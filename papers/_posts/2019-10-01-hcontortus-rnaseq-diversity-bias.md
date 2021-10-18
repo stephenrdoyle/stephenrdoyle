@@ -9,7 +9,7 @@ volume: 49
 issue: 11
 pages: 847-858
 authors: "Rezansoff AM, Laing R, Martinelli A, Redman E, Bartley D, Holroyd N, Devaney E, DOYLE SR, Sargison ND, Cotton JA, Gilleard JS."
-image: 
+image: /assets/images/papers/2019-10-01-hcontortus-rnaseq-diversity-bias.png
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/S002075191930205X?via%3Dihub
 pdflink: 
