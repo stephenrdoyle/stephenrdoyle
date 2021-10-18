@@ -4,7 +4,7 @@ title: "Differential intracellular distribution of DNA complexed with polyethyle
 year: "2007"
 shortref: "Doyle <i>et al.</i> <i>Genetic Vaccines and Therapy</i> 2007"
 nickname: pei-transfection
-journal: "Genetic Vaccines and Therapy
+journal: "Genetic Vaccines and Therapy"
 volume: 
 issue:
 pages: 
