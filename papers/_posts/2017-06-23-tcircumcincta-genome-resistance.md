@@ -9,7 +9,7 @@ volume:
 issue: 7
 pages: 5317
 authors: "Choi YJ, Bisset SA, DOYLE SR, Hallsworth-Pepin K, Martin J, Grant WN, Mitreva M"
-image: 
+image: /assets/images/papers/2017-06-23-tcircumcincta-genome-resistance.png
 redirect_from: 
 fulltext: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006857
 pdflink: 

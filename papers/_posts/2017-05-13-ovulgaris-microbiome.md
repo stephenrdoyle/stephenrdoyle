@@ -9,7 +9,7 @@ volume:
 issue: 7
 pages: 5317
 authors: "Roura A, DOYLE SR, Nande M, Strugnell JS"
-image: 
+image: /assets/images/papers/2017-05-13-ovulgaris-microbiome.png
 redirect_from: 
 fulltext: https://www.frontiersin.org/articles/10.3389/fphys.2017.00362/full
 pdflink: 

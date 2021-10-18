@@ -9,7 +9,7 @@ volume:
 issue: 2
 pages: 16216
 authors: "Cotton JA, Bennuru S, Grote A, Harsha B, Tracey A, Beech R, DOYLE SR, Dunn M, Dunning Hotopp JC, Holroyd N, Kikuchi T, Lambert O, Mhashilkar A, Mutowo P, Nursimulu N, Ribeiro J, Rogers MB, Stanley E, Swapna LS, Tsai IJ, Unnasch T, Voronin D, Parkinson J, Nutman TB, Ghedin E, Berriman M, Lustigman S"
-image: 
+image: /assets/images/papers/2016-11-21-ovolvulus-genome.png
 redirect_from: 
 fulltext: https://www.nature.com/articles/nmicrobiol2016216
 pdflink: 
