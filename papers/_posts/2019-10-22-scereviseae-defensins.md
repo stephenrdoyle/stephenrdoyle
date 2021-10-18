@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "Parisi K, DOYLE SR, Lee E, Lowe R, Weerden NVD, Anderson M, Bleackley M. "
-image: 
+image: /assets/images/papers/2019-10-22-scereviseae-defensins.png
 redirect_from: 
 fulltext: https://journals.asm.org/doi/10.1128/AAC.01097-19
 pdflink: 
