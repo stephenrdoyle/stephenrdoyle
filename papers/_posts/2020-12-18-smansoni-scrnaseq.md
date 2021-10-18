@@ -9,7 +9,7 @@ volume:
 issue: 11
 pages: 6411
 authors: "Diaz Soria CL, Lee J, Chong T, Coghlan A, Tracey A, Young M, Andrews T, Hall C, Ng BL, Rawlinson K, DOYLE SR, Leonard S, Lu Z, Bennett H, Rinaldi G, Newmark PA, Berriman M. "
-image: 
+image: /assets/images/papers/2020-12-18-smansoni-scrnaseq.png
 redirect_from: 
 fulltext: https://www.nature.com/articles/s41467-020-20092-5 
 pdflink: 

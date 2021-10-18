@@ -37,6 +37,8 @@ tags: [cjohnstoni, genome, assembly, annotation]
 
 We present a genome assembly and annotation of an individual female Cercopithifilaria johnstoni, a parasitic filarial nematode that is transmitted by hard ticks (Ixodidae) to infect a broad range of native Australian murid and marsupial hosts. The genome sequence is 76.9 Mbp in length, and although in draft form (N50 = 99 kbp, N50[n] = 232), is largely complete based on universally conserved orthologs (BUSCOs; genome = 94.9%, protein = 96.5%) and relative to other related filarial species. These data represent the first genomic resources for the genus Cercopithifilaria, a group of parasites with a broad host range, and form the basis for comparative analysis with the human-infective parasite, Onchocerca volvulus, both of which are responsible for similar eye and skin pathologies in their respective hosts.
 
+- Stephen and Warwick are co-Senior authors
+
 ## Data availability
 
 European Nucleotide Archive: Raw sequence data, genome and annotation are deposited in the ENA. Accession number PRJEB47283; https://identifiers.org/ena.embl:PRJEB47283. The analysis code used in this study is available from GitHub and is archived with Zenodo (Doyle & McKann, 2021).
