@@ -23,7 +23,7 @@ levamisole and ivermectin resistance.
 
 Stephen's first postdoctoral postion was in the Nematode Functional Genomics group led by [Warwick Grant] at [La Trobe University] in Melbourne, Australia. Here, Stephen 
 focused on the genetic analysis of sub-optimal responses by *Onchocerca volvulus* to ivermectin. This work led to the first genome-wide comparative analysis between "good"
-and "poor" responders in Ghana and Cameroon, revealing multiple but distinct genetic signations of selection differentiating response types.
+and "poor" responders in Ghana and Cameroon, revealing multiple but distinct genetic signatures of selection differentiating response types.
 
 Stephen received his PhD in Genetics at La Trobe University in 2011.
 
