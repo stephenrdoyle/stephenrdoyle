@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genomic introgression mapping of field-derived multiple-anthelmintic resistance in Teladorsagia circumcincta"
+title: "Genomic introgression mapping of field-derived multiple-anthelmintic resistance in <i>Teladorsagia circumcincta</i>"
 year: "2017"
 shortref: "Choi  <i>et al.</i> <i>PLoS Genetics</i> 2017"
 nickname: tcircumcincta-genome-resistance

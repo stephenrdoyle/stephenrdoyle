@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "The genome sequence of the Australian filarial nematode, Cercopithifilaria johnstoni"
+title: "The genome sequence of the Australian filarial nematode, <i>Cercopithifilaria johnstoni</i>"
 year: "2021"
 shortref: "McCann <i>et al.</i> <i>Wellcome Open Research</i> 2021"
 nickname: cjohnstoni_genome

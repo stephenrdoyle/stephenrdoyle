@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Outlier SNPs enable food traceability of the southern rock lobster, Jasus edwardsii"
+title: "Outlier SNPs enable food traceability of the southern rock lobster, <i>Jasus edwardsii</i>"
 year: "2016"
 shortref: "Villacorta-Rath   <i>et al.</i> <i>Marine Biology</i> 2016"
 nickname: jedwardsii-popgene

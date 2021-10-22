@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Significant heterogeneity in Wolbachia copy number within and between populations of Onchocerca volvulus"
+title: "Significant heterogeneity in <i>Wolbachia</i> copy number within and between populations of <i>Onchocerca volvulus</i>"
 year: "2017"
 shortref: "Armoo  <i>et al.</i> <i>Parasites and Vectors</i> 2017"
 nickname: ovolvulus-wolbachia-variation

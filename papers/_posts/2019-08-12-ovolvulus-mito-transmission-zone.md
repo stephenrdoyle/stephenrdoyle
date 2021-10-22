@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Utility of the Onchocerca volvulus mitochondrial genome for delineation of parasite transmission zones"
+title: "Utility of the <i>Onchocerca volvulus</i> mitochondrial genome for delineation of parasite transmission zones"
 year: "2019"
 shortref: "Crawford <i>et al.</i> <i>bioRxiv</i> 2019"
 nickname: ovolvulus-mito-transmission-zones

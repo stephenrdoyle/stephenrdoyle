@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Outlier SNPs detect weak regional structure against a background of genetic homogeneity in the Eastern Rock Lobster, Sagmariasus verreauxi"
+title: "Outlier SNPs detect weak regional structure against a background of genetic homogeneity in the Eastern Rock Lobster, <i>Sagmariasus verreauxi</i>"
 year: "2018"
 shortref: "Woodings <i>et al.</i> <i>Marine Biology </i> 2018"
 nickname: sverreauxi-popgen

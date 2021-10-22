@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genome-wide analysis of ivermectin response by Onchocerca volvulus reveals genetic drift and soft selective sweeps contribute to loss of drug sensitivity"
+title: "Genome-wide analysis of ivermectin response by <i>Onchocerca volvulus</i> reveals genetic drift and soft selective sweeps contribute to loss of drug sensitivity"
 year: "2017"
 shortref: "Doyle  <i>et al.</i> <i>PLoS NTD</i> 2017"
 nickname: ovolvulus-ivermectin-genomics

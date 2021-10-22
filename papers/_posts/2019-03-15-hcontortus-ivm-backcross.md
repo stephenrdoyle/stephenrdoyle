@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Population genomic and evolutionary modelling analyses reveal a single major QTL for ivermectin drug resistance in the pathogenic nematode, Haemonchus contortus"
+title: "Population genomic and evolutionary modelling analyses reveal a single major QTL for ivermectin drug resistance in the pathogenic nematode, <i>Haemonchus contortus</i>"
 year: "2019"
 shortref: "Doyle  <i>et al.</i> <i>BMC Genomics</i> 2019"
 nickname: hcontortus_ivm_backcross

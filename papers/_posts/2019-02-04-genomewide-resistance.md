@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genome-wide Approaches to Investigate Anthelmintic Resistance"
+title: "Genome-wide approaches to Investigate anthelmintic resistance"
 year: "2019"
 shortref: "Doyle  <i>et al.</i> <i>Trends in Parasitology</i> 2019"
 nickname: genomewide-anthelmintic-resistance

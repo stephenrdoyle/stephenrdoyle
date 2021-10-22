@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Assembled chromosomes of the blood fluke Schistosoma mansoni provide insight into the evolution of its ZW sex-determination system"
+title: "Assembled chromosomes of the blood fluke <i>Schistosoma mansoni</i> provide insight into the evolution of its ZW sex-determination system"
 year: "2021"
 shortref: "Buddenborg <i>et al.</i> <i>bioRxiv</i> 2021"
 nickname: smansoni_genome

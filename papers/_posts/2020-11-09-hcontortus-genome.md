@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genomic and transcriptomic variation defines the chromosome-scale assembly of Haemonchus contortus, a model gastrointestinal worm"
+title: "Genomic and transcriptomic variation defines the chromosome-scale assembly of <i>Haemonchus contortus</i>, a model gastrointestinal worm"
 year: "2020"
 shortref: "Doyle <i>et al.</i> <i>Communications Biology</i> 2020"
 nickname: hcontortus_genome

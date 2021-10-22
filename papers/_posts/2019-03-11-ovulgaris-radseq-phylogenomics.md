@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the Octopus vulgaris species complex"
+title: "Genome-wide sequencing uncovers cryptic diversity and mito-nuclear discordance in the <i>Octopus vulgaris</i> species complex"
 year: "2019"
 shortref: "Amor <i>et al.</i> <i>bioRxiv</i> 2019"
 nickname: ovulgaris_radseq_phylogenomics

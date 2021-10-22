@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "The genome of Onchocerca volvulus, agent of river blindness"
+title: "The genome of <i>Onchocerca volvulus</i>, agent of river blindness"
 year: "2016"
 shortref: "Cotton  <i>et al.</i> <i>Nature Microbiology</i> 2017"
 nickname: ovolvulus-genome

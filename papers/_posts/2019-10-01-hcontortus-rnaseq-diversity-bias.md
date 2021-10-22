@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "The confounding effects of high genetic diversity on the determination and interpretation of differential gene expression analysis in the parasitic nematode Haemonchus contortus"
+title: "The confounding effects of high genetic diversity on the determination and interpretation of differential gene expression analysis in the parasitic nematode <i>Haemonchus contortus</i>"
 year: "2019"
 shortref: "Rezansoff <i>et al.</i> <i>IJP</i> 2019"
 nickname: hcontortus_rnaseq_diversity_bias

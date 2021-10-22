@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, Sagmariasus verreauxi"
+title: "Low-coverage MiSeq next generation sequencing reveals the mitochondrial genome of the Eastern Rock Lobster, <i>Sagmariasus verreauxi</i>"
 year: "2021"
 shortref: "Doyle <i>et al.</i> <i>Mitochondrial DNA</i> 2014"
 nickname: sverreauxi-mitogenome

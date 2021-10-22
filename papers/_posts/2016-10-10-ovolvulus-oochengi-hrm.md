@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Discrimination between Onchocerca volvulus and O. ochengi filarial larvae in Simulium damnosum (s.l.) and their distribution throughout central Ghana using a versatile high-resolution speciation assay"
+title: "Discrimination between <i>Onchocerca volvulus</i> and <i>O. ochengi</i> filarial larvae in <i>Simulium damnosum</i> (s.l.) and their distribution throughout central Ghana using a versatile high-resolution speciation assay"
 year: "2016"
 shortref: "Doyle <i>et al.</i> <i>Parasites & Vectors</i> 2016"
 nickname: ovolvulus-oochengi-hrm

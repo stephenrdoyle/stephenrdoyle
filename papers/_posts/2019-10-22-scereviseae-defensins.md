@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Screening the Saccharomyces cerevisiae Nonessential Gene Deletion Library Reveals Diverse Mechanisms of Action for Antifungal Plant Defensins"
+title: "Screening the <i>Saccharomyces cerevisiae</i> nonessential gene Deletion library reveals diverse mechanisms of action for antifungal plant defensins"
 year: "2019"
 shortref: "Parisi <i>et al.</i> <i>Antimicrobial Agents and Chemotherapy</i> 2019"
 nickname: hmicrostoma_genome

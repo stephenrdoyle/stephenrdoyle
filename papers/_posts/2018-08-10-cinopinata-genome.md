@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Biology and genome of a newly discovered sibling species of Caenorhabditis elegans"
+title: "Biology and genome of a newly discovered sibling species of <i>Caenorhabditis elegans</i>"
 year: "2018"
 shortref: "Kanzaki  <i>et al.</i> <i>Nature Communications</i> 2018"
 nickname: cinopinata_genome

@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni"
+title: "Single-cell atlas of the first intra-mammalian developmental stage of the human parasite <i>Schistosoma mansoni</i>"
 year: "2020"
 shortref: "Diaz Soria <i>et al.</i> <i>Nature Communications</i> 2020"
 nickname: smansoni_scrnaseq

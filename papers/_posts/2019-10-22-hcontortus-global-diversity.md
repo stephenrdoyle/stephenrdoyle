@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "The global diversity of Haemonchus contortus is shaped by human intervention and climate"
+title: "The global diversity of <i>Haemonchus contortus</i> is shaped by human intervention and climate"
 year: "2019"
 shortref: "Sallé <i>et al.</i> <i>Nature Communications</i> 2019"
 nickname: hcontortus_global_diversity

@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Phylogeographic patterns of the Australian grass trees (Xanthorrhoea Asphodelaceae) shown using targeted amplicon sequencing"
+title: "Phylogeographic patterns of the Australian grass trees (<i>Xanthorrhoea Asphodelaceae</i>) shown using targeted amplicon sequencing"
 year: "2021"
 shortref: "McLay <i>et al.</i> <i>Australia Systematic Botany</i> 2021"
 nickname: grass tree amplicon sequencing

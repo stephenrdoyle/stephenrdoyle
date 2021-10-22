@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "You Are What You Eat: A Genomic Analysis of the Gut Microbiome of Captive and Wild Octopus vulgaris Paralarvae and Their Zooplankton Prey"
+title: "You Are What You Eat: A Genomic Analysis of the Gut Microbiome of Captive and Wild <i>Octopus vulgaris</i> Paralarvae and Their Zooplankton Prey"
 year: "2017"
 shortref: "Roura  <i>et al.</i> <i>Frontiers in Physiology</i> 2017"
 nickname: ovulgaris-microbiome

@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Reduced variation in Wolbachia density of larval stages in comparison with adults of Onchocerca volvulus: implications for clinical outcome of infection?"
+title: "Reduced variation in <i>Wolbachia</i> density of larval stages in comparison with adults of <i>Onchocerca volvulus</i>: implications for clinical outcome of infection?"
 year: "2018"
 shortref: "Armoo <i>et al.</i> <i>bioRxiv</i> 2018"
 nickname: ovolvulus-wolbachia-copynumber

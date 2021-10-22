@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Population genomic evidence that human and animal infections in Africa come from the same populations of Dracunculus medinensis"
+title: "Population genomic evidence that human and animal infections in Africa come from the same populations of <i>Dracunculus medinensis</i>"
 year: "2020"
 shortref: "Durrant  <i>et al.</i> <i>PLoS NTD</i> 2020"
 nickname: dmedinensis_popgen
