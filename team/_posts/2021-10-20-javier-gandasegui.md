@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Javier Gandasegui"
-position: McC Bioinformatics and Genetic Epidemiology student
+position: MSc Bioinformatics and Genetic Epidemiology student
 nickname: Javi
 handle: jga
 email:
