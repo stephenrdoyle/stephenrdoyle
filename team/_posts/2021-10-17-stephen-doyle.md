@@ -10,6 +10,7 @@ github: stephenrdoyle
 ORCID: 0000-0001-9167-7532
 scholar: YxhUT5cAAAAJ
 image: /assets/images/team/DoyleSR_Sanger2021.JPG
+CV: "https://github.com/stephenrdoyle/markdown-cv/blob/gh-pages/index.md"
 alum: false
 ---
 
