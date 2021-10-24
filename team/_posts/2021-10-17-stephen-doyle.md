@@ -29,7 +29,7 @@ and "poor" responders in Ghana and Cameroon, revealing multiple but distinct gen
 
 Stephen received his PhD in Genetics at La Trobe University in 2011.
 
-[CV]: https://github.com/stephenrdoyle/markdown-cv/blob/gh-pages/index.md
+[CV](https://stephenrdoyle.github.io/markdown-cv/)
 
 [Wellcome Sanger Institute]: www.sanger.ac.uk
 [UKRI]: https://www.ukri.org/
