@@ -25,10 +25,10 @@ altmetric_id:
 category: paper
 # Note: 'published' is a Jekyll keyword and does not refer to whether the paper is published, but rather to whether this Markdown should be part of the rendered site.
 published: true
-preprint: true
+preprint: false
 embargo: false
-peerreview: false
-review: true
+peerreview: true
+review: false
 tags: [helminths, STH, microbiome, diagnostics]
 ---
 {% include JB/setup %}
