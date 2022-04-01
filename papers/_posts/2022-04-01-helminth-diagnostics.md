@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Papaiakovou M, Littlewood TJ, DOYLE SR, Gasser R, Cantacessi C"
-image:
+image: /assets/images/papers/2022-04-01_helminth_microbiome_diagnostics.png
 redirect_from:
 fulltext:
 pdflink:
