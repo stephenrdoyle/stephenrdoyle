@@ -9,7 +9,7 @@ volume: 15
 issue: 118
 pages:
 authors: "Papaiakovou M, Littlewood TJ, DOYLE SR, Gasser R, Cantacessi C"
-image: /assets/images/papers/2022-04-01_helminth_microbiome_diagnostics.jpeg
+image: /assets/images/papers/2022-04-01_helminth_microbiome_diagnostics.png
 redirect_from:
 fulltext: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-022-05225-7
 pdflink: https://parasitesandvectors.biomedcentral.com/track/pdf/10.1186/s13071-022-05225-7.pdf
