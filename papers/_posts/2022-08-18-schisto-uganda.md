@@ -2,22 +2,23 @@
 layout: paper
 title: "Genome-wide analysis of <i>Schistosoma mansoni</i> reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities"
 year: "2022"
-shortref: "Vianney <i>et al.</i> <i>BioRxiv</i> 2022"
+shortref: "Vianney <i>et al.</i> <i>PLoS NTD</i> 2022"
 nickname: schisto-uganda
-journal: "BioRxiv"
+journal: "PLoS NTD"
 volume:
 issue:
 pages:
 authors: "Vianney JV, Berger D, Doyle SR, Sankaranarayanan G, Serubanja J, Nakawungu PK, Besigye F, Sanya R, Holroyd N, Allan F, Webb E, Elliott A, Berriman M, Cotton J"
-image:
+image: /assets/images/papers/2022-08-18-schisto-uganda.png
 redirect_from:
-fulltext:
+fulltext: "https://doi.org/10.1371/journal.pntd.0010188"
 pdflink:
 github:
 pmid:
 pmcid:
 f1000:
-doi: "https://doi.org/10.1101/2022.01.25.477652"
+doi: "https://doi.org/10.1371/journal.pntd.0010188"
+biorxiv: "https://doi.org/10.1101/2022.01.25.477652"
 dryad_doi:
 figshare_doi:
 zenodo_doi:
