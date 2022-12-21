@@ -8,7 +8,7 @@ journal: "Genetic Vaccines and Therapy"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR and Chan CK"
+authors: "Doyle SR, Chan CK"
 image: /assets/images/papers/2007-11-26-pei-transfection.png
 redirect_from: 
 fulltext: https://gvt-journal.biomedcentral.com/articles/10.1186/1479-0556-5-11

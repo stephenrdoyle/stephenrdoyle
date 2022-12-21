@@ -8,7 +8,7 @@ journal: "The Lancet Infectious Diseases"
 volume: 22
 issue: 11
 pages: E341-E347
-authors: "Gandasegui J, Onwuchekwa C, Krolewiecki AJ, DOYLE SR, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J"
+authors: "Gandasegui J, Onwuchekwa C, Krolewiecki AJ, Doyle SR, Pullan RL, Enbiale W, Kepha S, Hatherell HA, van Lieshout L, Cambra-Pellejà M, Escola V, Muñoz J"
 image: /assets/images/papers/
 redirect_from:
 fulltext: https://doi.org/10.1016/S1473-3099(22)00369-3

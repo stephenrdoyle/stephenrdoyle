@@ -8,7 +8,7 @@ journal: "BMC Bioinformatics"
 volume: 
 issue:
 pages: 
-authors: "Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, DOYLE SR, Dobrovic A"
+authors: "Wong NC, Pope BJ, Candiloro I, Korbie D, Trau M, Wong SQ, Mikeska T, Van Denderen BJW, Thompson EW, Eggers S, Doyle SR, Dobrovic A"
 image: /assets/images/papers/2016-02-24-methpat-methylation.png
 redirect_from: 
 fulltext: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0950-8

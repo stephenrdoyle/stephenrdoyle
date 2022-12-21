@@ -8,7 +8,7 @@ journal: "Nature Communications"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO"
+authors: "Doyle SR, Soe MJ, Nejsum P, Betson M, Cooper PJ, Peng L, Zhu XQ, Sanchez A, Matamoros G, Fontecha Sandoval GA, Cutillas C, Tchuente LAT, Mekonnen Z, Ame SM, Namwanje H, Levecke B, Berriman M, Fredensborg BL, Kapel CMO"
 image: /assets/images/papers/2022-07-06-doyle-ancient-trichuris.png
 redirect_from: 
 fulltext: https://doi.org/10.1038/s41467-022-31487-x

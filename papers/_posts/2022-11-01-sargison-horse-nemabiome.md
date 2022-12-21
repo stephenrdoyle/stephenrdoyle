@@ -8,7 +8,7 @@ journal: "International Journal for Parasitology"
 volume: 52
 issue: 12
 pages: 763-774
-authors: "Sargison N, Chambers A, Chaudhry U, Júnior LC, DOYLE SR, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O"
+authors: "Sargison N, Chambers A, Chaudhry U, Júnior LC, Doyle SR, Ehimiyein A, Evans M, Jennings A, Kelly R, Sargison F, Sinclair M, Zahid O"
 image: /assets/images/papers/2022-11-01-sargison-horse-nemabiome.png
 redirect_from:
 fulltext:

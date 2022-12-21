@@ -8,7 +8,7 @@ journal: "Gats Open Research"
 volume:
 issue:
 pages:
-authors: "Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S, Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, DOYLE SR, Williams NA, Legarda A, Mandomando I, Mwandawiro C, Muñoz J "
+authors: "Krolewiecki A, Enbiale W, Gandasegui J, van Lieshout L, Kepha S, Messa Junior A, Bengtson M, Gelaye W, Escola V, Martinez-Valladares M, Cambra-Pellejà M, Algorta J, Martí-Soler H, Fleitas P, Ballester MR, Doyle SR, Williams NA, Legarda A, Mandomando I, Mwandawiro C, Muñoz J "
 image: /assets/images/papers/
 redirect_from:
 fulltext:

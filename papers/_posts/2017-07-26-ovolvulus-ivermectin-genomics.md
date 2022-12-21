@@ -8,7 +8,7 @@ journal: "PLoS NTD"
 volume: 11
 issue: 7
 pages: e0005816
-authors: "DOYLE SR, Bourguinat C, Nana-Djeunga HC, Kengne-Ouafo JA, Pion SDS, Bopda J, Kamgno J, Wanji S, Che H, Kuesel AC, Walker M, Basanez M-G, Boakye DA, Osei-Atweneboana MY, Boussinesq M, Prichard RK, Grant WN"
+authors: "Doyle SR, Bourguinat C, Nana-Djeunga HC, Kengne-Ouafo JA, Pion SDS, Bopda J, Kamgno J, Wanji S, Che H, Kuesel AC, Walker M, Basanez M-G, Boakye DA, Osei-Atweneboana MY, Boussinesq M, Prichard RK, Grant WN"
 image: /assets/images/papers/2017-07-26-ovolvulus-ivermectin-genomics.png
 redirect_from: 
 fulltext: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005816

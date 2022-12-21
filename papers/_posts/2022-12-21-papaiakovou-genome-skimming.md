@@ -8,7 +8,7 @@ journal: "International Journal for Parasitology"
 volume:
 issue:
 pages:
-authors: "Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, DOYLE SR, Cantacessi C, Littlewood DTJ "
+authors: "Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, Doyle SR, Cantacessi C, Littlewood DTJ "
 image: /assets/images/papers/
 redirect_from:
 fulltext:

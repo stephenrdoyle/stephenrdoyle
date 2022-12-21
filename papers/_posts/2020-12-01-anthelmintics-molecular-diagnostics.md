@@ -8,7 +8,7 @@ journal: "International Journal for Parasitology: Drugs and Drug Resistance"
 volume: 14
 issue:
 pages: 264-273
-authors: "Kotze AC, Gilleard JS, DOYLE SR, Prichard RK"
+authors: "Kotze AC, Gilleard JS, Doyle SR, Prichard RK"
 image: /assets/images/papers/2020-12-01-anthelmintics-molecular-diagnostics.jpg
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/S2211320720300476?via%3Dihub 

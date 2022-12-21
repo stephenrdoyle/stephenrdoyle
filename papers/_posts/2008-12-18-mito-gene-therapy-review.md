@@ -8,7 +8,7 @@ journal: "Human Gene Therapy"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR and Chan CK"
+authors: "Doyle SR, Chan CK"
 image: /assets/images/papers/2008-12-18-mito-gene-therapy-review.png
 redirect_from: 
 fulltext: https://www.liebertpub.com/doi/10.1089/hum.2008.090

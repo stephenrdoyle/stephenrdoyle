@@ -8,7 +8,7 @@ journal: "Nature Communications"
 volume: 
 issue: 9
 pages: 3216
-authors: "Kanzaki N, Tsai IJ, Tanaka R, Hunt VL, Tsuyama K, Liu D, Maeda Y, Woodruff G, Namai S, Kumagai R, Tracey A, Holroyd N, DOYLE SR, Murase K, Kitazume H, Billah MM, Ke HM, Wang J, Berriman M, Sternberg P, Sugimoto A, Kikuchi T"
+authors: "Kanzaki N, Tsai IJ, Tanaka R, Hunt VL, Tsuyama K, Liu D, Maeda Y, Woodruff G, Namai S, Kumagai R, Tracey A, Holroyd N, Doyle SR, Murase K, Kitazume H, Billah MM, Ke HM, Wang J, Berriman M, Sternberg P, Sugimoto A, Kikuchi T"
 image: /assets/images/papers/2018-08-10-cinopinata-genome.png
 redirect_from: 
 fulltext: https://www.nature.com/articles/s41467-018-05712-5

@@ -8,7 +8,7 @@ journal: "BMC Biology"
 volume: 
 issue:
 pages: 
-authors: "Olson PD, Tracey A, Bailie A, James K, Rodgers FH, DOYLE SR, Buddenborg S, Holroyd N, Berriman M"
+authors: "Olson PD, Tracey A, Bailie A, James K, Rodgers FH, Doyle SR, Buddenborg S, Holroyd N, Berriman M"
 image: /assets/images/papers/2020-11-09-hmicrostoma-genome.png
 redirect_from: 
 fulltext: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00899-w

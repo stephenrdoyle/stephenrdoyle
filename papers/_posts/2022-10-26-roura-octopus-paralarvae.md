@@ -8,7 +8,7 @@ journal: "ResearchSquare (preprint)"
 volume:
 issue:
 pages:
-authors: "Roura A, DOYLE SR, Castro-Bugallo A, Gonzalez AF, Strugnell JM"
+authors: "Roura A, Doyle SR, Castro-Bugallo A, Gonzalez AF, Strugnell JM"
 image: /assets/images/papers/2022-10-26-octopus-paralarvae.png
 redirect_from:
 fulltext:

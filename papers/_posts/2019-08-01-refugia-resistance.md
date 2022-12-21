@@ -8,7 +8,7 @@ journal: "IJP-DDR"
 volume: 10
 issue: 
 pages: 51-57
-authors: "Hodgkinson JE, Kaplan RM, Kenyon F, Morgan ER, Park AW, Paterson S, Babayan SA, Beesley NJ, Britton C, Chaudray U, DOYLE SR, Ezenwa VO, Fenton A, Howell SB, Laing R, Mable BK, Matthews L, McIntyre J, Milne CE, Morrison TA, Prentice JC, Sargison ND, Williams DJL, Wolstenholme AJ, Devaney E"
+authors: "Hodgkinson JE, Kaplan RM, Kenyon F, Morgan ER, Park AW, Paterson S, Babayan SA, Beesley NJ, Britton C, Chaudray U, Doyle SR, Ezenwa VO, Fenton A, Howell SB, Laing R, Mable BK, Matthews L, McIntyre J, Milne CE, Morrison TA, Prentice JC, Sargison ND, Williams DJL, Wolstenholme AJ, Devaney E"
 image: /assets/images/papers/2019-08-01-refugia-resistance.jpg
 redirect_from: 
 fulltext: https://www.sciencedirect.com/science/article/pii/S2211320719300508?via%3Dihub

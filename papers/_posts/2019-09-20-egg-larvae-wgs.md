@@ -8,7 +8,7 @@ journal: "Frontiers in Genetics"
 volume:
 issue: 10
 pages: 826
-authors: "DOYLE SR, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N"
+authors: "Doyle SR, Sankaranarayan G, Allan F, Berger D, Castro PDJ, Collins JB, Crellen T, Duque-Correa MA, Ellis P, Jaleta TG, Laing R, Maitland K, McCarthy C, Moundai T, Softley B, Thiele E, Ouakou PT, Tushabe JV, Webster JP, Weiss AJ, Lok J, Devaney E, Kaplan RM, Cotton JA, Berriman M, Holroyd N"
 image: /assets/images/papers/2019-09-20-egg-larvae-wgs.jpg
 redirect_from: 
 fulltext: https://www.frontiersin.org/articles/10.3389/fgene.2019.00826/full

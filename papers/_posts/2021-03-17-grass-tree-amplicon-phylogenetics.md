@@ -8,7 +8,7 @@ journal: "Australia Systematic Botany"
 volume: 34
 issue: 2
 pages: 206-225
-authors: "McLay TGB, Ladiges PY, DOYLE SR, Bayly MJ"
+authors: "McLay TGB, Ladiges PY, Doyle SR, Bayly MJ"
 image: /assets/images/papers/2021-03-17-grass-tree-amplicon-phylogenetics.png
 redirect_from: 
 fulltext: https://www.publish.csiro.au/SB/SB20013 

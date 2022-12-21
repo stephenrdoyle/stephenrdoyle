@@ -8,7 +8,7 @@ journal: "Genome Biology and Evolution"
 volume: 10
 issue: 2
 pages: 396–409
-authors: "DOYLE SR, Laing R, Bartley DJ, Britton C, Chaudhry U, Gilleard JS, Holroyd N, Mable BK, Maitland K, Morrison AA, Tait A, Tracey A, Berriman M, Devaney E, Cotton JA, Sargison ND"
+authors: "Doyle SR, Laing R, Bartley DJ, Britton C, Chaudhry U, Gilleard JS, Holroyd N, Mable BK, Maitland K, Morrison AA, Tait A, Tracey A, Berriman M, Devaney E, Cotton JA, Sargison ND"
 image: /assets/images/papers/2018-02-01-hcontortus-genetic-map.png
 redirect_from: 
 fulltext: https://academic.oup.com/gbe/article/10/2/396/4756466

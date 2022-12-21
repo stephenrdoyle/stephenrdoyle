@@ -8,7 +8,7 @@ journal: "Marine Biology"
 volume: 
 issue: 163
 pages: 223
-authors: "Villacorta-Rath C, Ilyushkina I, Strugnell JM, Green BS, Murphy NP, DOYLE SR, Hall NE, Robinson AJ, Bell, JJ"
+authors: "Villacorta-Rath C, Ilyushkina I, Strugnell JM, Green BS, Murphy NP, Doyle SR, Hall NE, Robinson AJ, Bell, JJ"
 image: /assets/images/papers/2016-10-11-jedwardsii-popgen.png
 redirect_from: 
 fulltext: https://link.springer.com/article/10.1007%2Fs00227-016-3000-1

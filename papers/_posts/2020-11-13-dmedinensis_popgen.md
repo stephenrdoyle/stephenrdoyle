@@ -8,7 +8,7 @@ journal: "PLoS NTD"
 volume: 
 issue:
 pages: 
-authors: "Durrant C, Thiele EA, Holroyd N, DOYLE SR, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA."
+authors: "Durrant C, Thiele EA, Holroyd N, Doyle SR, Sallé G, Tracey A, Sankaranaranayan G, Lotkowska M, Bennett HM, Huckvale T, Abdellah Z, Tchindebet O, Wossen M, Logora MSY, Coulibaly CO, Weiss AJ, Schulte-Hostedde A, Foster J, Cleveland CA, Yabsley MJ, Ruiz-Tiben E, Berriman M, Eberhard M, Cotton JA."
 image: /assets/images/papers/2020-11-13-dmedinensis_popgen.png
 redirect_from: 
 fulltext: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008623

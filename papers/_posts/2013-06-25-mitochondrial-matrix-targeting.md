@@ -8,7 +8,7 @@ journal: "PLoS One"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR, Kasinadhuni NRP, Chan CK, Grant WN"
+authors: "Doyle SR, Kasinadhuni NRP, Chan CK, Grant WN"
 image: /assets/images/papers/2013-06-25-mitochondrial-matrix-targeting.png
 redirect_from: 
 fulltext: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067938

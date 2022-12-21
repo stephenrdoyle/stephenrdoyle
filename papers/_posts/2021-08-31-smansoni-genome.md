@@ -8,7 +8,7 @@ journal: "bioRxiv"
 volume: 
 issue:
 pages: 
-authors: "Buddenborg SK, Tracey A, Berger DJ, Lu Z, DOYLE SR, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M"
+authors: "Buddenborg SK, Tracey A, Berger DJ, Lu Z, Doyle SR, Fu B, Yang F, Reid AJ, Rodgers FH, Rinaldi G, Sankaranarayanan G, Bohme U, Holroyd N, Berriman M"
 image: /assets/images/papers/2021-10-18-schisto-genome.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/2021.08.13.456314v1 

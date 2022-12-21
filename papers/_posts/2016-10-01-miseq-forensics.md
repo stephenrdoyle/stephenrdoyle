@@ -8,7 +8,7 @@ journal: "Electrophoresis"
 volume: 
 issue:
 pages: 
-authors: "Mehta B, Daniel R, Phillips C, DOYLE SR, Elvidge G, Mcnevin D"
+authors: "Mehta B, Daniel R, Phillips C, Doyle SR, Elvidge G, Mcnevin D"
 image: /assets/images/papers/2016-10-01-miseq-forensics.png
 redirect_from: 
 fulltext: https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/elps.201600190

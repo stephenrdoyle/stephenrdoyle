@@ -8,7 +8,7 @@ journal: "bioRxiv"
 volume: 
 issue: 
 pages: 
-authors: "Armoo S, DOYLE SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN"
+authors: "Armoo S, Doyle SR, Hedtke SM, Adjami GA, Boakye DA, Kuesel AC, Osei-Atwnenboana MY, Grant WN"
 image: /assets/images/papers/2018-10-31-ovolulus-wolbachia-copynumber.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/458034v1

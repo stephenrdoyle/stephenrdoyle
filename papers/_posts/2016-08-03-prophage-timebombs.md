@@ -8,7 +8,7 @@ journal: "PLoS One"
 volume: 
 issue:
 pages: 
-authors: "Dyson ZA, Brown TL, Farrar B, DOYLE SR, Tucci J, Seviour RJ, Petrovski S"
+authors: "Dyson ZA, Brown TL, Farrar B, Doyle SR, Tucci J, Seviour RJ, Petrovski S"
 image: /assets/images/papers/2016-08-03-prophage-timebombs.png
 redirect_from: 
 fulltext: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159957

@@ -8,7 +8,7 @@ journal: "Parasites and Vectors"
 volume: 
 issue: 10
 pages: 188
-authors: "Armoo SK, DOYLE SR, Osei-Atweneboana MY, Grant WN"
+authors: "Armoo SK, Doyle SR, Osei-Atweneboana MY, Grant WN"
 image: /assets/images/papers/2017-04-18-ovolvulus-wolbachia-variation.png
 redirect_from: 
 fulltext: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2126-4

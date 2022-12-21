@@ -8,7 +8,7 @@ journal: "Mitochondrial DNA"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR, Griffiths IS, Murphy NP, Strugnell JM"
+authors: "Doyle SR, Griffiths IS, Murphy NP, Strugnell JM"
 image: /assets/images/papers/2014-01-10-sverreauxi-mitogenome.jpg
 redirect_from: 
 fulltext: https://www.tandfonline.com/doi/full/10.3109/19401736.2013.855921

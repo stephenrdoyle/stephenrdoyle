@@ -8,7 +8,7 @@ journal: "Scientific Reports"
 volume: 
 issue: 7
 pages: 5317
-authors: "Juma AR, Sahota A, Grommen SVH, O’Connor AE, Merriner DJ, Hu J, Hall NE, DOYLE SR, Damdimopoulos AE, Damdimopoulou PE, Barriga D, Hart AH, Van De Ven WJM, O’Bryan MK, De Groef B"
+authors: "Juma AR, Sahota A, Grommen SVH, O’Connor AE, Merriner DJ, Hu J, Hall NE, Doyle SR, Damdimopoulos AE, Damdimopoulou PE, Barriga D, Hart AH, Van De Ven WJM, O’Bryan MK, De Groef B"
 image: /assets/images/papers/2017-07-13-plag1-spermatogenesis.png
 redirect_from: 
 fulltext: https://www.nature.com/articles/s41598-017-05676-4

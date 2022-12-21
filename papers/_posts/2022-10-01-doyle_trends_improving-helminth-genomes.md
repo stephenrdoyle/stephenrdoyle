@@ -8,7 +8,7 @@ journal: "Trends in Parasitology"
 volume:
 issue:
 pages:
-authors: "DOYLE SR"
+authors: "Doyle SR"
 image: /assets/images/papers/2022-10-01-doyle_trends_improving-helminth-genomes.png
 redirect_from:
 fulltext:

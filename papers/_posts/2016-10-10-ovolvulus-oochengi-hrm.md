@@ -8,7 +8,7 @@ journal: "Parasites & Vectors"
 volume: 
 issue:
 pages: 
-authors: "DOYLE SR, Armoo S, Osei-Atweneboana MY, Renz A, Grant WN"
+authors: "Doyle SR, Armoo S, Osei-Atweneboana MY, Renz A, Grant WN"
 image:  /assets/images/papers/2016-10-10-ovolvulus-oochengi-hrm.png
 redirect_from: 
 fulltext: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-016-1832-7 

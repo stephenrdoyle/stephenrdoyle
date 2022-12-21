@@ -8,7 +8,7 @@ journal: "bioRxiv"
 volume: 
 issue: 20
 pages: 218
-authors: "Amor MD, DOYLE SR, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM"
+authors: "Amor MD, Doyle SR, Norman MD, Roura A, Hall NE, Robinson AJ, Leite TS, Strugnell JM"
 image: /assets/images/papers/2019-03-11-ovulgaris-radseq-phylogenomics.png
 redirect_from: 
 fulltext: https://www.biorxiv.org/content/10.1101/573493v1
