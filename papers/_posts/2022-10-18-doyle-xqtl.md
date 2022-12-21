@@ -2,7 +2,7 @@
 layout: paper
 title: "Genomic landscape of drug response reveals mediators of anthelmintic resistance"
 year: "2022"
-shortref: "Doyle <i>et al.</i> <i>bioRxiv</i> 2022"
+shortref: "Doyle <i>et al.</i> <i>Cell Reports</i> 2022"
 nickname: x-qtl
 journal: "Cell Reports"
 volume: 
