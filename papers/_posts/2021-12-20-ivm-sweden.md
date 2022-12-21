@@ -9,7 +9,7 @@ volume: "18"
 issue:
 pages: "12-19"
 authors: "Baltrusis P, Doyle SR, Halvarsson P, Hoglund J "
-image:
+image: /assets/images/papers/2021-12-20-ivm-sweden.png
 redirect_from: 
 fulltext: "https://www.sciencedirect.com/science/article/pii/S2211320721000555?via%3Dihub"
 pdflink: 
