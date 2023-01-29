@@ -13,8 +13,7 @@ image: /assets/images/team/GandaseguiJ_2021.JPG
 alum: true
 ---
 
-Javi spent the final stages of his MSc Bioinformatics and Genetic Epidemiology course (run from Cardiff University) doing a 3 months project 
-with Steve over the 2021 UK summer. 
+Javi spent the final stages of his MSc Bioinformatics and Genetic Epidemiology course (run from Cardiff University) doing a 3 months project with Steve over the 2021 UK summer. 
 
 Javi worked on the project "Understanding the population genomics of the dog heartworm, *Dirofilaria immitis*", which made use of a number of different 
 publicly-available genomic datasets to ask questions about the genetic relatedness and population structure among globally-distributed parasite isolates 
