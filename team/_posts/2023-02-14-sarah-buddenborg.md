@@ -5,8 +5,8 @@ position: Postdoctoral Fellow
 nickname: Sarah
 handle: skb
 email: skb@sanger.ac.uk
-twitter: @SarahBuddenborg
-github: https://github.com/SKBuddenborg
+twitter: SarahBuddenborg
+github: SKBuddenborg
 ORCID: 
 scholar: aQqT7tYAAAAJ
 image: /assets/images/team/BuddenborgS_2023.jpg
