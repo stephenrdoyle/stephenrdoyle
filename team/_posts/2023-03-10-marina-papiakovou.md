@@ -9,7 +9,7 @@ twitter: lamarevilia
 github: MarinaSci
 ORCID: 0000-0001-9012-2703
 scholar: 0MBuf2AAAAAJ
-image: /assets/images/team/papiakovou_marina.jpeg
+image: /assets/images/team/papaiakovou_marina_2023.jpg
 alum: false
 ---
 
