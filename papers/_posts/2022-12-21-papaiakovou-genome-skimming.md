@@ -1,23 +1,23 @@
 ---
 layout: paper
 title: "Evaluation of genome skimming to detect and characterise human and livestock helminths"
-year: "2022"
-shortref: "Papaiakovou <i>et al.</i> IJP 2022"
+year: "2023"
+shortref: "Papaiakovou <i>et al.</i> IJP 2023"
 nickname: genome-skimming
 journal: "International Journal for Parasitology"
 volume:
 issue:
 pages:
 authors: "Papaiakovou M, Fraija-Fernández N, James K, Briscoe AG, Hall A, Jenkins TP, Dunn J, Levecke B, Mekonnen Z, Cools P, Doyle SR, Cantacessi C, Littlewood DTJ "
-image: /assets/images/papers/
+image: /assets/images/papers/2023-03-10-genome-skimming.jpg
 redirect_from:
-fulltext:
+fulltext: https://www.sciencedirect.com/science/article/pii/S0020751923000127
 pdflink:
 github:
 pmid:
 pmcid:
 f1000:
-doi: DOI
+doi: https://doi.org/10.1016/j.ijpara.2022.12.002
 dryad_doi:
 figshare_doi:
 zenodo_doi:
@@ -25,9 +25,9 @@ altmetric_id:
 category: paper
 # Note: 'published' is a Jekyll keyword and does not refer to whether the paper is published, but rather to whether this Markdown should be part of the rendered site.
 published: true
-preprint: true
+preprint: false
 embargo: false
-peerreview: false
+peerreview: true
 review: false
 tags: [STH, genome-skimming, genomics]
 ---
