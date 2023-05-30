@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Genome structure and population genomics of the canine heartworm *Dirofilaria immitis*"
+title: "Genome structure and population genomics of the canine heartworm Dirofilaria immitis"
 year: "2023"
 shortref: "Gandasegui <i>et al.</i> BioRxiv 2023"
 nickname: heartworm-genome-popgen

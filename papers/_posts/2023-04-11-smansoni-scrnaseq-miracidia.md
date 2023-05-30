@@ -9,7 +9,7 @@ volume:
 issue:
 pages:
 authors: "Attenborough T, Rawlinson KA, Diaz Soria CL, Ambridge K, Sankaranarayanan G, Graham J, Doyle SR, Rinaldi G, Berriman M"
-image: /assets/images/papers/
+image: /assets/images/papers/2023-04-11-smansoni-scrnaseq-miracidia.png
 redirect_from:
 fulltext:
 pdflink:
@@ -17,7 +17,7 @@ github:
 pmid:
 pmcid:
 f1000:
-doi: DOI
+doi: https://doi.org/10.1101/2023.03.27.533868
 dryad_doi:
 figshare_doi:
 zenodo_doi:
