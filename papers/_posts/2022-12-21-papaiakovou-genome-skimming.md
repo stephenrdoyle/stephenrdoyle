@@ -13,7 +13,7 @@ image: /assets/images/papers/2023-03-10-genome-skimming.jpg
 redirect_from:
 fulltext: https://www.sciencedirect.com/science/article/pii/S0020751923000127
 pdflink:
-github:
+github: https://github.com/MarinaSci/IJP_genome_skimming
 pmid:
 pmcid:
 f1000:
