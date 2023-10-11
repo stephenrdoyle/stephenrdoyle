@@ -8,8 +8,7 @@ category: news
 tags: [award]
 ---
 
-Very happy to be invited to give a talk at the upcoming Anti-helmintics: Drugs, Resistance & Vaccines V meeting at 
-the University of Massachusetts Medical School, on March 1-3, 2022. 
+Very happy to be invited to give a talk at the upcoming Anti-helmintics: Drugs, Resistance & Vaccines V meeting at the University of Massachusetts Medical School, on March 1-3, 2022. 
 
 Will have to remember how to pack a bag, its been a while!
 
