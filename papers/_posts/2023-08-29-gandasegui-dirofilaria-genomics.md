@@ -2,22 +2,22 @@
 layout: paper
 title: "Genome structure and population genomics of the canine heartworm Dirofilaria immitis"
 year: "2023"
-shortref: "Gandasegui <i>et al.</i> BioRxiv 2023"
+shortref: "Gandasegui <i>et al.</i> IJP 2023"
 nickname: heartworm-genome-popgen
-journal: "BioRxiv"
+journal: "International Journal for Parasitology"
 volume:
 issue:
 pages:
 authors: "Gandasegui J, Power RI, Curry E, Lau DCW, O'Neill CM, Wolstenholme A, Prichard R, Slapeta J, Doyle SR"
 image: /assets/images/papers/2023-04-26-gandasegui-dirofilaria-genomics.png
 redirect_from:
-fulltext: https://www.biorxiv.org/content/10.1101/2023.04.25.538225v1
+fulltext: https://doi.org/10.1016/j.ijpara.2023.07.006
 pdflink:
 github: https://github.com/Gandasegui/pop_genomics_dirofiliaria
 pmid:
 pmcid:
 f1000:
-doi: https://doi.org/10.1101/2023.04.25.538225
+doi: https://doi.org/10.1016/j.ijpara.2023.07.006
 dryad_doi:
 figshare_doi:
 zenodo_doi:

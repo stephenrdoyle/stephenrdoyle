@@ -2,8 +2,8 @@
 layout: paper
 title: "Trophic ecology of Octopus vulgaris paralarvae along the Iberian Canary current eastern boundary upwelling system "
 year: "2023"
-shortref: "Roura <i>et al.</i> Scientific Reports 2024"
-nickname: octopus_paralarvae
+shortref: "Roura <i>et al.</i> Scientific Reports 2023"
+nickname: octopus_paralarvae_diet
 journal: "Scientific Reports"
 volume:
 issue:
